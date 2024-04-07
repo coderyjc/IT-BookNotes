@@ -10,6 +10,7 @@
       <list>
         <option value="$MODULE_DIR$/第2章 感知机" />
         <option value="$MODULE_DIR$/第3章 神经网络" />
+        <option value="$MODULE_DIR$/第4章 神经网络的学习" />
       </list>
     </option>
   </component>
