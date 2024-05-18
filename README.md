@@ -6,10 +6,10 @@
 
 | 书名  |类型   | 封面                   | 进度                 |
 | ----------|----- | --------- | --------- |
-| 动手学深度学习Pytorch版本| 代码+注释+部分课后题|  <img width = '150' height ='200' src ="./assets/d2l.png"/>| 正在进行 |
-| 流畅的Python | 代码 |  <img width = '150' height ='200' src ="./assets/fluent-python.jpg"/>| 未开始 |
-| 深度学习入门：基于Python的理论与实现 | 代码 | <img width = '150' height ='200' src ="./assets/image-20240301085520701.png"/> | 2024-04-23 已完成 |
-| SQL必知必会（第五版）  |  代码     | <img width = '150' height ='200' src ="./assets/image-20240301085448284.png"/> | 2024-03-03 已完成 |
+| 动手学深度学习Pytorch版本| 代码+注释+部分课后题|  <img width = '90' height ='120' src ="./assets/d2l.png"/>| 正在进行 |
+| 流畅的Python | 代码 |  <img width = '90' height ='120' src ="./assets/fluent-python.jpg"/>| 正在进行 |
+| 深度学习入门：基于Python的理论与实现 | 代码 | <img width = '90' height ='120' src ="./assets/image-20240301085520701.png"/> | 2024-04-23 已完成 |
+| SQL必知必会（第五版）  |  代码     | <img width = '90' height ='120' src ="./assets/image-20240301085448284.png"/> | 2024-03-03 已完成 |
 
 ## 更新记录
 
