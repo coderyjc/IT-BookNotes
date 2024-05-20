@@ -6,10 +6,10 @@
 
 | 书名  |类型   | 封面                   | 进度                 |
 | ----------|----- | --------- | --------- |
-| 动手学深度学习Pytorch版本| 代码+注释+部分课后题|  <img width = '150' height ='200' src ="./assets/d2l.png"/>| 正在进行 |
-| 流畅的Python | 代码 |  <img width = '150' height ='200' src ="./assets/fluent-python.jpg"/>| 未开始 |
-| 深度学习入门：基于Python的理论与实现 | 代码 | <img width = '150' height ='200' src ="./assets/image-20240301085520701.png"/> | 2024-04-23 已完成 |
-| SQL必知必会（第五版）  |  代码     | <img width = '150' height ='200' src ="./assets/image-20240301085448284.png"/> | 2024-03-03 已完成 |
+| 动手学深度学习Pytorch版本| 代码+注释+部分课后题|  <img width = '60' height ='80' src ="./assets/d2l.png"/>| 正在进行 |
+| 流畅的Python | 代码 |  <img width = '60' height ='80' src ="./assets/fluent-python.jpg"/>| 未开始 |
+| 深度学习入门：基于Python的理论与实现 | 代码 | <img width = '60' height ='80' src ="./assets/image-20240301085520701.png"/> | 2024-04-23 已完成 |
+| SQL必知必会（第五版）  |  代码     | <img width = '60' height ='80' src ="./assets/image-20240301085448284.png"/> | 2024-03-03 已完成 |
 
 ## 更新记录
 
@@ -42,7 +42,7 @@
 | ------ | ------- | 
 |第1章 Python数据模型 | 2024-05-17 |
 |第2章 序列构成的数组 | 2024-05-18 |
-|第3章 字典和集合 | - |
+|第3章 字典和集合 | 2024-05-20 |
 |第4章 文本和字节序列 | - |
 |第5章 一等函数 | - |
 |第6章 使用一等函数实现设计模式 | - |
