@@ -6,8 +6,8 @@
 
 | 书名  |类型   | 封面                   | 进度                 |
 | ----------|----- | --------- | --------- |
-| 动手学深度学习-Pytorch版本| 代码+注释+部分课后题|  <img width = '60' height ='80' src ="./assets/d2l.png"/> | 暂停更新 |
-| Effective Python | 代码+注释 |  <img width = '60' height ='80' src ="./assets/effectivepython.jpg"/> | 正在更新-v1.0 |
+| 动手学深度学习-Pytorch版本| 代码+注释+部分课后题|  <img width = '60' height ='80' src ="./assets/d2l.png"/> | 正在更新 |
+| Effective Python | 代码+注释 |  <img width = '60' height ='80' src ="./assets/effectivepython.jpg"/> | 暂停更新 |
 | 流畅的Python | 代码+部分注释 |  <img width = '60' height ='80' src ="./assets/fluent-python.jpg"/>| 2024-05-28 已完成-v1.0 |
 | 深度学习入门：基于Python的理论与实现 | 代码+注释 | <img width = '60' height ='80' src ="./assets/image-20240301085520701.png"/> | 2024-04-23 已完成-v1.0 |
 | SQL必知必会（第五版）  |  代码     | <img width = '60' height ='80' src ="./assets/image-20240301085448284.png"/> | 2024-03-03 已完成 |
@@ -15,7 +15,9 @@
 
 ## 更新记录
 
-#### 动手学深度学习：Pytorch版【暂停更新】
+#### 动手学深度学习：Pytorch版
+
+正在龟速更新...
 
 | 章节  |  代码-完成时间  | 注释-完成时间 | 部分课后题-完成时间|
 | ------ | ------- | ----- | ----- |
